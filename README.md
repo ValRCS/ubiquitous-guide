@@ -4,3 +4,6 @@
 
 * My first item
 * My second item
+
+1. Numbered List
+2. Another item
